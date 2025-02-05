@@ -1,0 +1,6 @@
+framework module OCRKorean {
+  umbrella header "OCRKorean.h"
+  export *
+
+  module * { export * }
+}
